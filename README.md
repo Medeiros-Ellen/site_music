@@ -10,7 +10,7 @@ Um site pessoal simples e charmoso, onde você compartilha seus gostos musicais 
 - CSS3
   
 ✨ Demostração do Site
-![Prévia do site](./img/)
+ <img src="./Design sem nome.png" alt= "foto">
 
 
 ---
