@@ -9,7 +9,7 @@
 - HTML5
 - CSS3
   
-## ✨ Demostração do Site
+## ✨ Prévia do Site
  <img src="./Captura de tela 2025-06-18 233320.png" alt= "foto">
 
 
