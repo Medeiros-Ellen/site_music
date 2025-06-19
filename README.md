@@ -8,9 +8,6 @@ Um site pessoal simples e charmoso, onde você compartilha seus gostos musicais 
 
 - HTML5
 - CSS3
-- Python 3.11+
-- Flask
-- SQLite
   
 ✨ Demostração do Site
 ![Prévia do site](./img/)
