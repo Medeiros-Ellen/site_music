@@ -1,6 +1,6 @@
 # 🎶 Do Ré Mi Gosto — Playlist Interativa
 
-Um site pessoal simples e charmoso, onde você compartilha seus gostos musicais e ainda recebe sugestões de músicas de outras pessoas! Feito com HTML, CSS e Python (Flask) + SQLite para salvar as recomendações em um banco de dados.
+**Um site simples, onde coloco meus artistas e bandas favoritos com links diretos para o Spotify (Plataforma internacional de Música). Aproveite!**
 
 ---
 
@@ -9,7 +9,7 @@ Um site pessoal simples e charmoso, onde você compartilha seus gostos musicais 
 - HTML5
 - CSS3
   
-✨ Demostração do Site
+## ✨ Demostração do Site
  <img src="./Captura de tela 2025-06-18 233320.png" alt= "foto">
 
 
